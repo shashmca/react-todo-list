@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kweiberth/react-todo-list.git"
+    "url": "https://github.com/shashmca/react-todo-list.git"
   },
-  "author": "Kurt Weiberth",
+  "author": "Shashank Shrivastava",
   "license": "ISC",
   "dependencies": {
     "babel-core": "^6.4.5",
